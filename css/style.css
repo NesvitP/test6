@@ -1,0 +1,12 @@
+.head {
+    height: 150px;
+    background-color: #777;
+    
+}
+
+.main {
+    background-color: gold;
+}
+.b {
+    border: 10px solid purple;
+}
